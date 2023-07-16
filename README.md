@@ -1,2 +1,3 @@
-# arquitetura-css
-curso de arquitetura da Alura. 
+# Arquitetura CSS
+Curso da Alura:
+  Arquitetura CSS: descomplicando os problemas
