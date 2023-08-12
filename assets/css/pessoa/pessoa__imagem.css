@@ -18,6 +18,6 @@
 }
 
 .pessoa__imagem--andreia {
-    background-image: url(/assets/img/pessoas/andreia.jpg);
+    background-image: url(../../img/pessoas/andreia.jpg);
     background-repeat: no-repeat;
 }
